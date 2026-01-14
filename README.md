@@ -38,3 +38,10 @@ End-to-end Tableau dashboard project showcasing data exploration, preprocessing,
 - Dashboard design & interactive visualization  
 - Communication of insights to end-users  
 - Using Tableau for business intelligence
+
+## Resume-Ready Highlights
+- Selected and preprocessed dataset for visualization  
+- Designed dashboard with 10+ plots using pre-attentive attributes  
+- Added interactive controls for dynamic insights  
+- Published final dashboard on Tableau Public 
+
