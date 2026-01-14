@@ -27,8 +27,9 @@ End-to-end Tableau dashboard project showcasing data exploration, preprocessing,
    - Layout & publish dashboard
 
 ## Reports
-- [Phase I Report](reports/phase1_design.pdf)  
-- [Phase II Report](reports/phase2_decisions.pdf)
+- [Phase I Report](reports/phase1_planning.pdf)  
+- [Phase II Report](reports/phase2_decision_making.pdf)
+- [Phase III Report](reports/phase2_implementation.pdf)
 
 ## Dashboard
 - https://public.tableau.com/app/profile/suraj.sanjay.shinde/viz/ProjectDV-Group15_17648488173190/Dashboard-Group15 (dashboard/tableau_dashboard_link.txt)
