@@ -1,0 +1,12 @@
+# Ignore dataset files
+data/*
+
+# Ignore temporary Tableau files
+*.twb~
+*.twbx~
+*.bak
+
+# OS files
+.DS_Store
+
+
