@@ -32,13 +32,18 @@ End-to-end Tableau dashboard project showcasing data exploration, preprocessing,
 - [Phase III Report](reports/phase2_implementation.pdf)
 
 ## Dashboard
-- https://public.tableau.com/app/profile/suraj.sanjay.shinde/viz/ProjectDV-Group15_17648488173190/Dashboard-Group15 (dashboard/tableau_dashboard_link.txt)
+- [Health Insurance Tableau](dashboard/tableau_dashboard_link.txt)
 
 ## Skills Demonstrated
 - Data exploration and preprocessing  
 - Dashboard design & interactive visualization  
 - Communication of insights to end-users  
 - Using Tableau for business intelligence
+
+## Contributors
+- Mansi Nandkar
+- Suraj Sanjay Shinde 
+- Afshiya Roohi Shaik
 
 ## Resume-Ready Highlights
 - Selected and preprocessed dataset for visualization  
