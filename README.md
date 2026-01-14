@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # hlth_ins_tableau_analytics
-Tableau Dashboard to represent the analytics of Health Insurance
-=======
-# Tableau Dashboard Project
 
 ## Overview
 End-to-end Tableau dashboard project showcasing data exploration, preprocessing, visualization, and interactive insights.
@@ -42,5 +38,3 @@ End-to-end Tableau dashboard project showcasing data exploration, preprocessing,
 - Dashboard design & interactive visualization  
 - Communication of insights to end-users  
 - Using Tableau for business intelligence
-
->>>>>>> 1523c51 (Add local README)
