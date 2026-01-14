@@ -10,7 +10,7 @@ End-to-end Tableau dashboard project showcasing data exploration, preprocessing,
 - **Output:** Interactive dashboard and PDF reports
 
 ## Dataset
-- Refer to `data/README.md` for dataset details, data types, and preprocessing.
+- [Kaggle Health Insr Dataset](https://www.kaggle.com/datasets/sridharstreaks/insurance-data-for-machine-learning)
 
 ## Workflow
 1. **Phase I – Planning**  
