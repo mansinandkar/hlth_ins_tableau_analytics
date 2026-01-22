@@ -44,10 +44,5 @@ End-to-end Tableau dashboard project showcasing data exploration, preprocessing,
 - Mansi Nandkar
 - Suraj Sanjay Shinde 
 - Afshiya Roohi Shaik
-
-## Resume-Ready Highlights
-- Selected and preprocessed dataset for visualization  
-- Designed dashboard with 10+ plots using pre-attentive attributes  
-- Added interactive controls for dynamic insights  
-- Published final dashboard on Tableau Public 
+ 
 
